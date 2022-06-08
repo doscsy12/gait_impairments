@@ -8,7 +8,7 @@ Next, simulation of the gait patterns were performed using [Vicon BodyBuilder](h
 
 ### Case studies
 #1 - Normal healthy
-<br> #2 - Peripheral Nerve Lesion 1
+<br> #2 - Peripheral Nerve Lesion 1 [mov1](https://github.com/doscsy12/gait_impairments/blob/main/videos/s1-1.mov)	[mov2](https://github.com/doscsy12/gait_impairments/blob/main/videos/s1-2.mov)	[mov3](https://github.com/doscsy12/gait_impairments/blob/main/videos/s1-map.mov)
 <br> #3 - Peripheral Nerve Lesion 2 - Polio
 <br> #4 - Upper Spinal Cord Lesion
 <br> #5 - Stroke
