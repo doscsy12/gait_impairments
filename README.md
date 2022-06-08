@@ -8,19 +8,19 @@ Next, simulation of the gait patterns were performed using [Vicon BodyBuilder](h
 
 ### Case studies
 #1 - Normal healthy
-#2 - Peripheral Nerve Lesion 1
-#3 - Peripheral Nerve Lesion 2 - Polio
-#4 - Upper Spinal Cord Lesion
-#5 - Stroke
-#6 - Spastic Hemiplegia - Stroke
-#7 - Cerebellar Lesion - Stroke
-#8 - Degenerative Joint Disease - Knee
-#9 - Pelvic/Lower Spinal Deformity
+<br> #2 - Peripheral Nerve Lesion 1
+<br> #3 - Peripheral Nerve Lesion 2 - Polio
+<br> #4 - Upper Spinal Cord Lesion
+<br> #5 - Stroke
+<br> #6 - Spastic Hemiplegia - Stroke
+<br> #7 - Cerebellar Lesion - Stroke
+<br> #8 - Degenerative Joint Disease - Knee
+<br> #9 - Pelvic/Lower Spinal Deformity
 
 
 | notebook                | description |
 |-------------------------|--------------|
-| ex      |  |
+|       |  |
 
 
 
