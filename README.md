@@ -7,10 +7,10 @@ This study is in two parts. First, gait analysis was performed on elderly partic
 Next, simulation of the gait patterns were performed using [Vicon BodyBuilder](https://www.vicon.com/software/bodybuilder/) and [LifeForms](http://www.credo-interactive.com/products/lifeforms/lf_4-0_studio.html). Namely, motion files were created in Bodybuilder, and Life Forms was used to edit and blend the motion capture in sequences.
 
 ### Case studies
-#1 - Normal healthy
-<br> #2 - Peripheral Nerve Lesion 1 [mov1](https://github.com/doscsy12/gait_impairments/blob/main/videos/s1-1.mov)	[mov2](https://github.com/doscsy12/gait_impairments/blob/main/videos/s1-2.mov)	[mov3](https://github.com/doscsy12/gait_impairments/blob/main/videos/s1-map.mov)
-<br> #3 - Peripheral Nerve Lesion 2 - Polio
-<br> #4 - Upper Spinal Cord Lesion
+#1 - Normal healthy	[mov1](https://github.com/doscsy12/gait_impairments/blob/main/videos/s1-1.mov)	[mov2](https://github.com/doscsy12/gait_impairments/blob/main/videos/s1-2.mov)	[mov3](https://github.com/doscsy12/gait_impairments/blob/main/videos/s1-map.mov)
+<br> #2 - Peripheral Nerve Lesion 1 [mov1](https://github.com/doscsy12/gait_impairments/blob/main/videos/s2-1.mov) 	[mov2](https://github.com/doscsy12/gait_impairments/blob/main/videos/s2-2.mov)	[mov3](https://github.com/doscsy12/gait_impairments/blob/main/videos/s2-map.mov)
+<br> #3 - Peripheral Nerve Lesion 2 - Polio [mov1](https://github.com/doscsy12/gait_impairments/blob/main/videos/s3-1.mov)	[mov2](https://github.com/doscsy12/gait_impairments/blob/main/videos/s3-2.mov)
+<br> #4 - Upper Spinal Cord Lesion	
 <br> #5 - Stroke
 <br> #6 - Spastic Hemiplegia - Stroke
 <br> #7 - Cerebellar Lesion - Stroke
